@@ -3,7 +3,7 @@
 
 - ***Bonjour*** Je fais ce repo pour que mon site sois totalement open source pour que les client vois comment tout ca marche 
 
-- ***Mais Comment lancer Le site ? *** Vous avez Deux Solutions Sois L'heberger sur un plesk Sois Le lancer en local avec nginx en fesant,
+- ***Mais Comment lancer Le site ?*** Vous avez Deux Solutions Sois L'heberger sur un plesk Sois Le lancer en local avec nginx en fesant,
 `php -S localhost:8000`,
 
 - A Quoi Sert le Site *Il sert principalement a heberger des image gratuitement pendant un temps infinit temps que le site et heberger et il a un chat Textuel Ajouté dedant aussi Qui a des role complex Staff/Support/admin/owner tout c'est role on des permitions dans le chat differant avous de les découvrire*
