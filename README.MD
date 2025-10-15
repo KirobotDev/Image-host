@@ -6,13 +6,13 @@
 - ***Mais Comment lancer Le site ?*** Vous avez Deux Solutions Sois L'heberger sur un plesk Sois Le lancer en local avec nginx en fesant,
 `php -S localhost:8000`,
 
-- A Quoi Sert le Site *Il sert principalement a heberger des image gratuitement pendant un temps infinit temps que le site et heberger et il a un chat Textuel Ajouté dedant aussi Qui a des role complex Staff/Support/admin/owner tout c'est role on des permitions dans le chat differant avous de les découvrire*
+- A Quoi Sert le Site ***Il sert principalement a heberger des image gratuitement pendant un temps infinit temps que le site et heberger et il a un chat Textuel Ajouté dedant aussi Qui a des role complex Staff/Support/admin/owner tout c'est role on des permitions dans le chat differant avous de les découvrire***
 
-- Mais Comment Fair Pour avoir le compte owner 🤔
+- ***Mais Comment Fair Pour avoir le compte owner 🤔***
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Il Vous Suffis Simplement de vous rendre dans le .env De Mètre votre mot de passe et username admin et y mètre aussi dans le config.php oublie pas d'enlever les mot de passe du config.php et du .env apres que tu te connecter pour la premier fois Et tu aura ton compte admin.
+***Il Vous Suffis Simplement de vous rendre dans le .env De Mètre votre mot de passe et username admin et y mètre aussi dans le config.php oublie pas d'enlever les mot de passe du config.php et du .env apres que tu te connecter pour la premier fois Et tu aura ton compte admin.***
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Que Reste Il A Améliorer Il A Rien a Améliorer a part le bouton de Déconnexion Qui Na pas de css Voila Mon Petit Projet 
+- ***Que Reste Il A Améliorer Il A Rien a Améliorer a part le bouton de Déconnexion Qui Na pas de css Voila Mon Petit Projet***
