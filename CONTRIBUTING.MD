@@ -7,4 +7,4 @@ Thanks for wanting to contribute! 🙌 Here’s how to get started.
 
 Reach out via issues or [X](https://x.com/kirobotdev) for questions!
 
-- Buy Me (Cofe)[buymeacoffee.com/kirobotdev] 
+- Buy Me [Cofe](buymeacoffee.com/kirobotdev) 
