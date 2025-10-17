@@ -16,3 +16,5 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ***Que Reste Il A Améliorer Il A Rien a Améliorer a part le bouton de Déconnexion Qui Na pas de css Voila Mon Petit Projet***
+
+- ***Pour Que personne et acces a vos fichier composer et .env Il Vous faut refair tout les path et mètre tout le php dans public avec le dossier assets***
